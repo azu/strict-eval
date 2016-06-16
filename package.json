@@ -1,0 +1,32 @@
+{
+  "name": "strict-eval",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/strict-eval.git"
+  },
+  "author": "azu",
+  "email": "azuciao@gmail.com",
+  "homepage": "https://github.com/azu/strict-eval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/strict-eval/issues"
+  },
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "version": "1.0.0",
+  "description": "eval code in vm module, but always strict mode.",
+  "main": "lib/strict-eval.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/strict-eval-test.js"
+  },
+  "keywords": [
+    "vm",
+    "eval",
+    "node"
+  ]
+}
