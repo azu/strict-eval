@@ -1,4 +1,4 @@
-# strict-eval
+# strict-eval [![Build Status](https://travis-ci.org/azu/strict-eval.svg?branch=master)](https://travis-ci.org/azu/strict-eval)
 
 eval code in vm module, but always strict mode.
 
