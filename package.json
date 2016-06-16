@@ -22,7 +22,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node test/strict-eval-test.js"
+    "test": "node test/strict-eval-test.js >/dev/null"
   },
   "keywords": [
     "vm",
