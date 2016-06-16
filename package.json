@@ -15,7 +15,7 @@
     "src/",
     "lib/"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eval code in vm module, but always strict mode.",
   "main": "lib/strict-eval.js",
   "directories": {
