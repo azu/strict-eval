@@ -1,4 +1,4 @@
-# strict-eval [![Build Status](https://travis-ci.org/azu/strict-eval.svg?branch=master)](https://travis-ci.org/azu/strict-eval)
+# strict-eval [![Actions Status: test](https://github.com/azu/strict-eval/workflows/test/badge.svg)](https://github.com/azu/strict-eval/actions?query=workflow%3A"test")
 
 eval code in vm module, but always strict mode.
 
