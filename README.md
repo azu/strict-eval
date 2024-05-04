@@ -15,6 +15,10 @@ const strictEval = require("strict-eval");
 strictEval("var a = 1");
 ```
 
+## Security disclaimer
+
+Please note that `strict-eval` has no security features and untrusted user input can lead to code injection vulnerabilities. 
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/strict-eval/releases).
