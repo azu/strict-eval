@@ -2,6 +2,8 @@
 
 eval code in vm module, but always strict mode.
 
+This module automatically prepends `"use strict"` directive to all evaluated code and executes it using Node.js vm module, enforcing strict mode execution.
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
